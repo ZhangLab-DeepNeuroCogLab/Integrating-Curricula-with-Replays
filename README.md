@@ -1,7 +1,7 @@
 # Integrating Curricula with Replays
 Authors: Tee Ren Jie, Zhang Mengmi
 
-This repository contains the code to run experiments about integrating curricula with replays. Our paper has been accepted in 
+This repository contains the code to run experiments about integrating curricula with replays. Our [paper](https://arxiv.org/abs/2307.05747) has been accepted in the AAAI 2023 Summer Symposium Series.
 
 ## Project Description
 Humans engage in learning and reviewing processes with curricula when acquiring new skills or knowledge. This human learning behavior has inspired the integration of curricula with replay methods in continual learning agents. The goal is to emulate the human learning process, thereby improving knowledge retention and facilitating learning transfer. Existing replay methods in continual learning agents involve the random selection and ordering of data from previous tasks, which has shown to be effective. However, limited research has explored the integration of different curricula with replay methods to enhance continual learning.
