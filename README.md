@@ -1,5 +1,5 @@
 # Integrating Curricula with Replays
-Authors: Tee Ren Jie, Mengmi Zhang
+Authors: Ren Jie Tee, Mengmi Zhang
 
 This repository contains the code to run experiments about integrating curricula with replays. Our [paper](https://arxiv.org/abs/2307.05747) has been accepted in the AAAI 2023 Summer Symposium Series.
 
